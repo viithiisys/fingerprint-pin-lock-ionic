@@ -8,3 +8,6 @@ Fingerprint authentication and PIN lock using Ionic Framework
 * Clone this repository: `git clone https://github.com/viithiisys/fingerprint-pin-lock-ionic.git`.
 * Run `npm install` from the project root.
 * Run `ionic serve` in a terminal from the project root.
+
+* Run `ionic cordova platform add android` for add android platform
+* Run `ionic cordova run android` for build and test on android device
